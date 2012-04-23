@@ -1,0 +1,3 @@
+The test plan for the Generator class would consist of various input strings to manipulate with various generator strings, for a various number of generations. We expect all characters matching the key to be replaced by the generator strings, and this would occur for each generation the original string is processed.
+
+We would also test various characters we might use for the key to ensure that it isn't dependent on a certain subset of characters.

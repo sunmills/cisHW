@@ -1,0 +1,3 @@
+﻿Test plan consists of creating various instances and adding their binary strings. It will also test the class' ability to convert back to decimal. It will show proficiency in decimal to binary conversion, binary to decimal conversion, and addition of binary values. It will additionally test each method other than the getters and setters to ensure they provide the correct output.
+
+Each method will be tested twice, with two different inputs.
